@@ -2,6 +2,10 @@
 
 All notable changes to `modal` will be documented in this file.
 
+## 4.0.0 - 2026-04-14
+
+Updated to Laravel 11
+
 ## 3.0.0 - 2024-03-19
 
 ### What's Changed
